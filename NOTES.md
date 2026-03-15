@@ -137,3 +137,13 @@
 Також користувач може натиснути кнопку `Sign Out` на сторінці `dashboard` і його перекину на початкову сторінку
 
 ## Part 15
+
+Було додано метадані до сторінок, а саме `title`, що дозволило змінювати назву сторінки сайту.
+
+![MetadataTitle](https://github.com/VitalikNeznayko1/nextjs-Tutorial/blob/master/public/screenshots/part15/MetadataTitle.png)
+
+Прикольно, що Next.js автоматично працює з метаданими та самостійно використовує їх під час формування сторінки.
+
+## End
+
+![CompleteCourse](https://github.com/VitalikNeznayko1/nextjs-Tutorial/blob/master/public/screenshots/part15/CompleteCourse.png)
