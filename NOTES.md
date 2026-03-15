@@ -107,7 +107,9 @@
 ![EditedInvoice](https://github.com/VitalikNeznayko1/nextjs-Tutorial/blob/master/public/screenshots/part11/image.png)
 
 Також було реалізовано видалення
+
 ## Part 12
+
 Було створено сторінку, яка відображається, коли поточної сторінки не знайдено, тобто при помилці 404
 
 ![notFoundPage](https://github.com/VitalikNeznayko1/nextjs-Tutorial/blob/master/public/screenshots/part12/notFoundPage.png)
@@ -123,4 +125,15 @@
 ![EditedInvoice](https://github.com/VitalikNeznayko1/nextjs-Tutorial/blob/master/public/screenshots/part13/requiredField.png)
 
 ## Part 14
+
+Було додано авторизацію на сайті
+
+![login](https://github.com/VitalikNeznayko1/nextjs-Tutorial/blob/master/public/screenshots/part14/login.png)
+
+Після того як користувач введе правильні дані, його перекидає на сторінку `dashboard`
+
+![afterAuth](https://github.com/VitalikNeznayko1/nextjs-Tutorial/blob/master/public/screenshots/part14/afterAuth.png)
+
+Також користувач може натиснути кнопку `Sign Out` на сторінці `dashboard` і його перекину на початкову сторінку
+
 ## Part 15
